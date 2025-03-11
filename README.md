@@ -9,4 +9,4 @@ This repo is in active developmen and highly subject to change.
 ## Circular Dichroism
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/circular_dichroisim_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chubbj/lab_scripts/blob/main/notebooks/circular_dichroisim_analysis.ipynb)
