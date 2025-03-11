@@ -8,5 +8,9 @@ This repo is in active developmen and highly subject to change.
 
 ## Circular Dichroism
 
+This CD code enables the uploading of JASCO CD data. I have tested it with TXT files from both J810/5 and J1500. Features:
+    - Transform data from CD (mdeg) to Mean residue ellipticity.
+    - Plot CD spectra
+    - Fit a simple sigmoid function to melting curves to get a prediction of transition temperature should the data allow for it. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chubbj/lab_scripts/blob/main/notebooks/circular_dichroisim_analysis.ipynb)
