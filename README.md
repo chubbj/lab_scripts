@@ -8,4 +8,5 @@ This repo is in active developmen and highly subject to change.
 
 ## Circular Dichroism
 
-[CD Notebook](notebooks/circular_dichroisim_analysis.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/circular_dichroisim_analysis.ipynb)
